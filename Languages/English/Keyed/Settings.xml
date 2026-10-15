@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DLP_SettingsHeader>This is supposed to be used with the "tiny" setting of the My Little Planet mod. Only affects newly generated worlds.</DLP_SettingsHeader>
+  <DLP_DensityMultiplier>Density multiplier: {0}x (range {1} to {2})</DLP_DensityMultiplier>
+  <DLP_DensityMultiplierLabel>Density multiplier</DLP_DensityMultiplierLabel>
+  <DLP_Reset>Reset to default</DLP_Reset>
+  <DLP_SettingsNote>Multiplies the vanilla settlement count formula on small My Little Planet worlds only. Normal sized worlds are ignored. The population slider on world creation still applies on top of this.</DLP_SettingsNote>
+</LanguageData>
